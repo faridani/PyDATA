@@ -1,0 +1,16 @@
+PyDATA
+
+PyDATA is a package for working and manipulating data files. I have been using some of these scripts for a while and though it would be a good idea to package them together so other people can use them. I am still working on this package. Individual files should be ready to use. Feel free to post your feature requests on the wiki page. 
+
+This package will contain scripts for importing and exporting different data types.
+These types include:
+
+  - Matlab .mat file (done)
+  - Columnar data files
+  - csv files
+  - R dataframes
+  - Excel .xls files
+
+Siamak Faridani
+University of California, Berkeley
+Aug 13, 2010
